@@ -4,7 +4,9 @@
 
 1. Navigate to the system folder
 2. type python sinesweep.py
-3. 
+3. Wait for countdown for sweep to begin
+4. Press space to pause and "+" and "-" to raise and lwoer volume respectively
+5. After sweep has ended a graphical reprsentation of your sweep as recorded by your microphone will be displayed
 
 # Linux Install
 
